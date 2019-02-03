@@ -1,5 +1,5 @@
 # Twitter Bot
-This is my Twitter bot in Python. Twitter me with ```#HelloWorld``` and the bot retweet back to you.
+This is my Twitter bot in Python. Twitter me with ```#HelloWorld``` and the bot retweets back to you.
 
 # Set up notes
 How to install Tweepy
